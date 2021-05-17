@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-multipage-website/static/css/main.1e4fe61a.chunk.css",
-    "main.js": "/react-multipage-website/static/js/main.7cdb25ac.chunk.js",
-    "main.js.map": "/react-multipage-website/static/js/main.7cdb25ac.chunk.js.map",
+    "main.js": "/react-multipage-website/static/js/main.74c7483a.chunk.js",
+    "main.js.map": "/react-multipage-website/static/js/main.74c7483a.chunk.js.map",
     "runtime-main.js": "/react-multipage-website/static/js/runtime-main.eea102e6.js",
     "runtime-main.js.map": "/react-multipage-website/static/js/runtime-main.eea102e6.js.map",
     "static/css/2.800be05e.chunk.css": "/react-multipage-website/static/css/2.800be05e.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Network.d9f89e7e.jpg": "/react-multipage-website/static/media/Network.d9f89e7e.jpg",
     "static/media/SmallLogo.be189c0b.png": "/react-multipage-website/static/media/SmallLogo.be189c0b.png",
     "static/media/HomeHeader.css": "/react-multipage-website/static/media/cityTech.ac7adc90.jpg",
+    "static/media/crptoLEAD.256733e8.png": "/react-multipage-website/static/media/crptoLEAD.256733e8.png",
     "static/media/HomeHeaderContainer.css": "/react-multipage-website/static/media/cryptoLEAD2.f31eeac3.png",
     "static/media/cryptoLEAD3.72610f1f.png": "/react-multipage-website/static/media/cryptoLEAD3.72610f1f.png",
     "static/media/diffAproach.58a6ba98.jpg": "/react-multipage-website/static/media/diffAproach.58a6ba98.jpg",
@@ -32,6 +33,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.de77e88c.chunk.js",
     "static/css/main.1e4fe61a.chunk.css",
-    "static/js/main.7cdb25ac.chunk.js"
+    "static/js/main.74c7483a.chunk.js"
   ]
 }
