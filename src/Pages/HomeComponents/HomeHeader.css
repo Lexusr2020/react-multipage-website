@@ -1,0 +1,25 @@
+
+.HomeHeader {
+    display: flex;
+    z-index: -1;
+    width: 100%;
+    height: 50vh;
+    background: url('../../images//bkgs/cityTech.jpg');
+    background-size: cover;
+    background-color: rgba(3, 3, 3, 0.562);
+    position: relative;
+    background-position: center;
+    align-items: center;
+}
+
+#HeaderBackground {
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+}
+
+
+
+
+

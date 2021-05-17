@@ -1,0 +1,44 @@
+.Card {
+    width: 3%;
+    align-items: center;
+    height: 80px;
+    min-height: 60px;
+    max-height: 85px;
+    border-radius: 16px;
+    padding: 10px;
+    margin-right: 1%;
+    margin-left: 4%;
+    float: left;
+    color: #333;
+  }
+
+                         
+
+    .Default {
+      background: #fff;
+    }
+    .Pic1 {
+    background: url("../../images/icons/facebook.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+   
+    .Pic2 {
+    background: url("../../images/icons/instagram.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    .Pic3 {
+    background: url("../../images/icons/twitter.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    .Pic4 {
+    background: url("../../images/icons//youtube.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    }

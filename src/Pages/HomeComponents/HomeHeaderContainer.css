@@ -1,0 +1,53 @@
+#HomeHeaderContainer {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    background: url('../../images//logo/cryptoLEAD2.png');
+    margin-left: 120px;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: contain;
+
+}
+#HeaderText {
+    display: flex;
+    width: 450px;
+    height: 200px;
+    padding-top: 70px;
+    background-position: inherit;
+    margin-left: 25px;
+    background-color: rgba(0, 0, 0, 0.014);
+    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: contain;
+}
+#HeaderText > h1 {
+    font-size: 40px;
+    color: rgb(194, 210, 255);
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 1015px) {
+    #HeaderText > h1 {
+            font-size: 45px;
+        }
+    }
+    @media only screen and (max-width: 850px) {
+        #HeaderText > h1 {
+                font-size: 25px;
+            }
+        }
+        @media only screen and (max-width: 376px) {
+            #HeaderText > h1 {
+                    font-size: 22px;
+                }
+            }
+
+@media only screen and (max-width: 480px) {
+    #HomeHeaderContainer  {
+        margin-left: 20px;
+        }
+    }
+

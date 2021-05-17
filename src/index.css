@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+* {
+  z-index: -3;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+  overflow-x: scroll;
+  /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(53, 53, 53); /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(37, 55, 80, 0.987); /* color of the scroll thumb */
+  border-radius: 25px; /* roundness of the scroll thumb */
+}
+html {
+scroll-behavior: smooth;
+}
+
+

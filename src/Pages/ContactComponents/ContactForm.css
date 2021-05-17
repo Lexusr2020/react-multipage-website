@@ -1,0 +1,13 @@
+.ContactForm {
+    z-index: -1;
+    width: 100%;
+    height: 40vh;
+
+}
+#FormContainer {
+    z-index: 1;
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(4, 36, 61);
+    display: flex;
+}
