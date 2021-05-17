@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-multipage-website/static/css/main.1e4fe61a.chunk.css",
+    "main.js": "/react-multipage-website/static/js/main.7cdb25ac.chunk.js",
+    "main.js.map": "/react-multipage-website/static/js/main.7cdb25ac.chunk.js.map",
+    "runtime-main.js": "/react-multipage-website/static/js/runtime-main.eea102e6.js",
+    "runtime-main.js.map": "/react-multipage-website/static/js/runtime-main.eea102e6.js.map",
+    "static/css/2.800be05e.chunk.css": "/react-multipage-website/static/css/2.800be05e.chunk.css",
+    "static/js/2.de77e88c.chunk.js": "/react-multipage-website/static/js/2.de77e88c.chunk.js",
+    "static/js/2.de77e88c.chunk.js.map": "/react-multipage-website/static/js/2.de77e88c.chunk.js.map",
+    "index.html": "/react-multipage-website/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/react-multipage-website/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.1e4fe61a.chunk.css.map": "/react-multipage-website/static/css/main.1e4fe61a.chunk.css.map",
+    "static/js/2.de77e88c.chunk.js.LICENSE.txt": "/react-multipage-website/static/js/2.de77e88c.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/react-multipage-website/static/media/AboutBodybkg.233dacfd.jpg",
+    "static/media/FAQs.12f49746.jpg": "/react-multipage-website/static/media/FAQs.12f49746.jpg",
+    "static/media/Network.d9f89e7e.jpg": "/react-multipage-website/static/media/Network.d9f89e7e.jpg",
+    "static/media/SmallLogo.be189c0b.png": "/react-multipage-website/static/media/SmallLogo.be189c0b.png",
+    "static/media/HomeHeader.css": "/react-multipage-website/static/media/cityTech.ac7adc90.jpg",
+    "static/media/HomeHeaderContainer.css": "/react-multipage-website/static/media/cryptoLEAD2.f31eeac3.png",
+    "static/media/cryptoLEAD3.72610f1f.png": "/react-multipage-website/static/media/cryptoLEAD3.72610f1f.png",
+    "static/media/diffAproach.58a6ba98.jpg": "/react-multipage-website/static/media/diffAproach.58a6ba98.jpg",
+    "static/media/Card.css": "/react-multipage-website/static/media/youtube.5213846a.svg",
+    "static/media/inquiries.55c2b6ed.jpg": "/react-multipage-website/static/media/inquiries.55c2b6ed.jpg",
+    "static/media/r-rn-map-2020.7cb30209.png": "/react-multipage-website/static/media/r-rn-map-2020.7cb30209.png",
+    "static/media/redLaptop.4a3bc620.jpg": "/react-multipage-website/static/media/redLaptop.4a3bc620.jpg",
+    "static/media/security.20deb60f.jpg": "/react-multipage-website/static/media/security.20deb60f.jpg",
+    "static/media/underConstruction.4490c076.jpg": "/react-multipage-website/static/media/underConstruction.4490c076.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea102e6.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.de77e88c.chunk.js",
+    "static/css/main.1e4fe61a.chunk.css",
+    "static/js/main.7cdb25ac.chunk.js"
+  ]
+}
